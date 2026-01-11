@@ -73,6 +73,12 @@ Python script to export your Crunchyroll watchlist and history to CSV format for
 - 🔧 Tech: Python
 - 🌟 Highlights: Web scraping, data processing, automation
 
+### ⌛ [SimpleClock](https://github.com/MikaelPecyna/SimpleClock)
+**Simple Full Screen Digital Clock**  
+Simple app done with GTK4 and Python to render a full screen digital clock 
+- 🔧 Tech: Python, GTK4
+- 🌟 Highlights: UI, GTK, system tools 
+
 
 ---
 
